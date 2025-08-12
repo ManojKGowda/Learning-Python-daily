@@ -134,10 +134,3 @@ Here:
    - Write a method `display_info()` that prints the student's name and marks.
    - Create multiple objects of the `Student` class and call the method on each.
 
----
-### **YouTube Reference**
-Watch the following YouTube video from my channel:
-- [Watch the tutorial on YouTube](https://www.youtube.com/watch?v=aXuYPVStgdk)
-
-
- Make sure to subscribe to the channel for more Python tutorial and updates! 
