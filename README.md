@@ -18,3 +18,4 @@ Daily progress based on the YouTube course by Chandan S Gowda (Engineering Kanna
 - [Day 12 - Basics of Functions](Day12/notes12.md)
 - [Day 13 - Key word Arguments, Lambda Functions and Recursion](Day13/notes13.md)
 - [Day 14 - Object oriented Programming](Day14/notes14.md)
+- [Day 15 - Constructor, Optional Parameters](Day15/notes15.md)
