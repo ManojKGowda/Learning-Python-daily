@@ -22,4 +22,4 @@ Daily progress based on the YouTube course by Chandan S Gowda (Engineering Kanna
 - [Day 16 - Four Pillars of OOP](Day16/notes16.md)
 - [Day 17 - Getters & Setters, Method Overloading, Overriding, Abstract Classes](Day17/notes17.md)
 - [Day 18 - Menu Driven Programs](Day18/notes18.md)
-- [Day 19 - OOP challenges]((Day19/notes19.md)
+- [Day 19 - OOP challenges](Day19/notes19.md)
