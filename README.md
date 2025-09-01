@@ -23,3 +23,5 @@ Daily progress based on the YouTube course by Chandan S Gowda (Engineering Kanna
 - [Day 17 - Getters & Setters, Method Overloading, Overriding, Abstract Classes](Day17/notes17.md)
 - [Day 18 - Menu Driven Programs](Day18/notes18.md)
 - [Day 19 - OOP challenges](Day19/notes19.md)
+- [Day 20 - Solid Principles](Day20/notes20.md)
+- [Day 21 - Exception handling](Day21/notes21.md)
