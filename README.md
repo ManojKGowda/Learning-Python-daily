@@ -25,3 +25,4 @@ Daily progress based on the YouTube course by Chandan S Gowda (Engineering Kanna
 - [Day 19 - OOP challenges](Day19/notes19.md)
 - [Day 20 - Solid Principles](Day20/notes20.md)
 - [Day 21 - Exception handling](Day21/notes21.md)
+- [Day 22 - File Handling](Day22/notes22.md)
