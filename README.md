@@ -28,5 +28,5 @@ Daily progress based on the YouTube course by Chandan S Gowda (Engineering Kanna
 - [Day 22 - File Handling](Day22/notes22.md)
 - [Day 23 - Libraries, modules and packages](Day23/notes23.md)
 - [Day 27 - Decorators in Python](Day27/notes27.md)
-- [Day 28 - maps(),filter() and reduce() in python](Day28/notes28.md)
+- [Day 28 - map(),filter() and reduce() in python](Day28/notes28.md)
 - [Day 29 - iterators and Generators in python](Day29/notes29.md)
